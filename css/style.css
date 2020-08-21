@@ -41,7 +41,7 @@ ordem: Base + typography > layout geral + grid > page layout > components
   }
 }
 @keyframes moveInRight {
-  0% {
+  0% { 
     opacity: 0;
     transform: translateX(10rem);
     -webkit-transform: translateX(10rem);
