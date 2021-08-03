@@ -46,7 +46,7 @@ https://nodejs.org/en/
 https://gitforwindows.org/
 
 # Clone este repositório
-$ git clone <https://github.com/LayDhenyfer/ProffysRosa>
+$ git clone <https://github.com/LayDhenyfer/Natours-Tours>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd My Natourys
